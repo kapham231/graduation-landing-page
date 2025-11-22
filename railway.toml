@@ -1,1 +1,0 @@
-startCommand = "frankenphp php-server public --port ${PORT} --workers=2"
